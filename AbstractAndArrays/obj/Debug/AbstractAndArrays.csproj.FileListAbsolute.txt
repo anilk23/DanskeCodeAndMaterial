@@ -1,0 +1,7 @@
+F:\DanskeC#\AbstractAndArrays\bin\Debug\AbstractAndArrays.exe.config
+F:\DanskeC#\AbstractAndArrays\bin\Debug\AbstractAndArrays.exe
+F:\DanskeC#\AbstractAndArrays\bin\Debug\AbstractAndArrays.pdb
+F:\DanskeC#\AbstractAndArrays\obj\Debug\AbstractAndArrays.csprojAssemblyReference.cache
+F:\DanskeC#\AbstractAndArrays\obj\Debug\AbstractAndArrays.csproj.CoreCompileInputs.cache
+F:\DanskeC#\AbstractAndArrays\obj\Debug\AbstractAndArrays.exe
+F:\DanskeC#\AbstractAndArrays\obj\Debug\AbstractAndArrays.pdb

@@ -1,0 +1,7 @@
+F:\DanskeC#\DelegateDemo\bin\Debug\DelegateDemo.exe.config
+F:\DanskeC#\DelegateDemo\bin\Debug\DelegateDemo.exe
+F:\DanskeC#\DelegateDemo\bin\Debug\DelegateDemo.pdb
+F:\DanskeC#\DelegateDemo\obj\Debug\DelegateDemo.csprojAssemblyReference.cache
+F:\DanskeC#\DelegateDemo\obj\Debug\DelegateDemo.csproj.CoreCompileInputs.cache
+F:\DanskeC#\DelegateDemo\obj\Debug\DelegateDemo.exe
+F:\DanskeC#\DelegateDemo\obj\Debug\DelegateDemo.pdb

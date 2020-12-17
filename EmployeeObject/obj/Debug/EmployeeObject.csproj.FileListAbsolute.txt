@@ -1,0 +1,7 @@
+F:\DanskeC#\EmployeeObject\bin\Debug\EmployeeObject.exe.config
+F:\DanskeC#\EmployeeObject\bin\Debug\EmployeeObject.exe
+F:\DanskeC#\EmployeeObject\bin\Debug\EmployeeObject.pdb
+F:\DanskeC#\EmployeeObject\obj\Debug\EmployeeObject.csprojAssemblyReference.cache
+F:\DanskeC#\EmployeeObject\obj\Debug\EmployeeObject.csproj.CoreCompileInputs.cache
+F:\DanskeC#\EmployeeObject\obj\Debug\EmployeeObject.exe
+F:\DanskeC#\EmployeeObject\obj\Debug\EmployeeObject.pdb

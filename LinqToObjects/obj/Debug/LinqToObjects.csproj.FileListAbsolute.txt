@@ -1,0 +1,7 @@
+F:\DanskeC#\LinqToObjects\bin\Debug\LinqToObjects.exe.config
+F:\DanskeC#\LinqToObjects\bin\Debug\LinqToObjects.exe
+F:\DanskeC#\LinqToObjects\bin\Debug\LinqToObjects.pdb
+F:\DanskeC#\LinqToObjects\obj\Debug\LinqToObjects.csprojAssemblyReference.cache
+F:\DanskeC#\LinqToObjects\obj\Debug\LinqToObjects.csproj.CoreCompileInputs.cache
+F:\DanskeC#\LinqToObjects\obj\Debug\LinqToObjects.exe
+F:\DanskeC#\LinqToObjects\obj\Debug\LinqToObjects.pdb

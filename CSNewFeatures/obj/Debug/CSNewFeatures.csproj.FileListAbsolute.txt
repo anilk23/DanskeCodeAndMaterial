@@ -1,0 +1,7 @@
+F:\DanskeC#\CSNewFeatures\bin\Debug\CSNewFeatures.exe.config
+F:\DanskeC#\CSNewFeatures\bin\Debug\CSNewFeatures.exe
+F:\DanskeC#\CSNewFeatures\bin\Debug\CSNewFeatures.pdb
+F:\DanskeC#\CSNewFeatures\obj\Debug\CSNewFeatures.csprojAssemblyReference.cache
+F:\DanskeC#\CSNewFeatures\obj\Debug\CSNewFeatures.csproj.CoreCompileInputs.cache
+F:\DanskeC#\CSNewFeatures\obj\Debug\CSNewFeatures.exe
+F:\DanskeC#\CSNewFeatures\obj\Debug\CSNewFeatures.pdb

@@ -1,0 +1,10 @@
+F:\DanskeC#\Client\bin\Debug\Client.exe.config
+F:\DanskeC#\Client\bin\Debug\Client.exe
+F:\DanskeC#\Client\bin\Debug\Client.pdb
+F:\DanskeC#\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+F:\DanskeC#\Client\obj\Debug\Client.exe
+F:\DanskeC#\Client\obj\Debug\Client.pdb
+F:\DanskeC#\Client\bin\Debug\BussinessLayer.dll
+F:\DanskeC#\Client\bin\Debug\BussinessLayer.pdb
+F:\DanskeC#\Client\obj\Debug\Client.csprojAssemblyReference.cache
+F:\DanskeC#\Client\obj\Debug\Client.csproj.CopyComplete

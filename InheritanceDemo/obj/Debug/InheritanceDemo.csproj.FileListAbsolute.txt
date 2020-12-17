@@ -1,0 +1,7 @@
+F:\DanskeC#\InheritanceDemo\bin\Debug\InheritanceDemo.exe.config
+F:\DanskeC#\InheritanceDemo\bin\Debug\InheritanceDemo.exe
+F:\DanskeC#\InheritanceDemo\bin\Debug\InheritanceDemo.pdb
+F:\DanskeC#\InheritanceDemo\obj\Debug\InheritanceDemo.csprojAssemblyReference.cache
+F:\DanskeC#\InheritanceDemo\obj\Debug\InheritanceDemo.csproj.CoreCompileInputs.cache
+F:\DanskeC#\InheritanceDemo\obj\Debug\InheritanceDemo.exe
+F:\DanskeC#\InheritanceDemo\obj\Debug\InheritanceDemo.pdb

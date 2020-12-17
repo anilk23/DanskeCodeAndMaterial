@@ -1,0 +1,7 @@
+F:\DanskeC#\Thread1\bin\Debug\Thread1.exe.config
+F:\DanskeC#\Thread1\bin\Debug\Thread1.exe
+F:\DanskeC#\Thread1\bin\Debug\Thread1.pdb
+F:\DanskeC#\Thread1\obj\Debug\Thread1.csprojAssemblyReference.cache
+F:\DanskeC#\Thread1\obj\Debug\Thread1.csproj.CoreCompileInputs.cache
+F:\DanskeC#\Thread1\obj\Debug\Thread1.exe
+F:\DanskeC#\Thread1\obj\Debug\Thread1.pdb

@@ -1,0 +1,7 @@
+F:\DanskeC#\GenericAndDelegates\bin\Debug\GenericAndDelegates.exe.config
+F:\DanskeC#\GenericAndDelegates\bin\Debug\GenericAndDelegates.exe
+F:\DanskeC#\GenericAndDelegates\bin\Debug\GenericAndDelegates.pdb
+F:\DanskeC#\GenericAndDelegates\obj\Debug\GenericAndDelegates.csprojAssemblyReference.cache
+F:\DanskeC#\GenericAndDelegates\obj\Debug\GenericAndDelegates.csproj.CoreCompileInputs.cache
+F:\DanskeC#\GenericAndDelegates\obj\Debug\GenericAndDelegates.exe
+F:\DanskeC#\GenericAndDelegates\obj\Debug\GenericAndDelegates.pdb

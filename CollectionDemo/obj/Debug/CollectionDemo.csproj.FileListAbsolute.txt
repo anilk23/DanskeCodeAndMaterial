@@ -1,0 +1,7 @@
+F:\DanskeC#\CollectionDemo\bin\Debug\CollectionDemo.exe.config
+F:\DanskeC#\CollectionDemo\bin\Debug\CollectionDemo.exe
+F:\DanskeC#\CollectionDemo\bin\Debug\CollectionDemo.pdb
+F:\DanskeC#\CollectionDemo\obj\Debug\CollectionDemo.csprojAssemblyReference.cache
+F:\DanskeC#\CollectionDemo\obj\Debug\CollectionDemo.csproj.CoreCompileInputs.cache
+F:\DanskeC#\CollectionDemo\obj\Debug\CollectionDemo.exe
+F:\DanskeC#\CollectionDemo\obj\Debug\CollectionDemo.pdb

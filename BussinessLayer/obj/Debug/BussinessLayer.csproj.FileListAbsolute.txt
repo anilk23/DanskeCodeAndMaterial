@@ -1,0 +1,6 @@
+F:\DanskeC#\BussinessLayer\bin\Debug\BussinessLayer.dll
+F:\DanskeC#\BussinessLayer\bin\Debug\BussinessLayer.pdb
+F:\DanskeC#\BussinessLayer\obj\Debug\BussinessLayer.csprojAssemblyReference.cache
+F:\DanskeC#\BussinessLayer\obj\Debug\BussinessLayer.csproj.CoreCompileInputs.cache
+F:\DanskeC#\BussinessLayer\obj\Debug\BussinessLayer.dll
+F:\DanskeC#\BussinessLayer\obj\Debug\BussinessLayer.pdb

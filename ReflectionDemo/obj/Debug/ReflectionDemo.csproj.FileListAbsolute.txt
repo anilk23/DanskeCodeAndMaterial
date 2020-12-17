@@ -1,0 +1,7 @@
+F:\DanskeC#\ReflectionDemo\bin\Debug\ReflectionDemo.exe.config
+F:\DanskeC#\ReflectionDemo\bin\Debug\ReflectionDemo.exe
+F:\DanskeC#\ReflectionDemo\bin\Debug\ReflectionDemo.pdb
+F:\DanskeC#\ReflectionDemo\obj\Debug\ReflectionDemo.csprojAssemblyReference.cache
+F:\DanskeC#\ReflectionDemo\obj\Debug\ReflectionDemo.csproj.CoreCompileInputs.cache
+F:\DanskeC#\ReflectionDemo\obj\Debug\ReflectionDemo.exe
+F:\DanskeC#\ReflectionDemo\obj\Debug\ReflectionDemo.pdb

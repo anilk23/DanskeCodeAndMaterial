@@ -1,0 +1,7 @@
+F:\DanskeC#\InterfaceDemo\obj\Debug\InterfaceDemo.csprojAssemblyReference.cache
+F:\DanskeC#\InterfaceDemo\obj\Debug\InterfaceDemo.csproj.CoreCompileInputs.cache
+F:\DanskeC#\InterfaceDemo\bin\Debug\InterfaceDemo.exe.config
+F:\DanskeC#\InterfaceDemo\bin\Debug\InterfaceDemo.exe
+F:\DanskeC#\InterfaceDemo\bin\Debug\InterfaceDemo.pdb
+F:\DanskeC#\InterfaceDemo\obj\Debug\InterfaceDemo.exe
+F:\DanskeC#\InterfaceDemo\obj\Debug\InterfaceDemo.pdb

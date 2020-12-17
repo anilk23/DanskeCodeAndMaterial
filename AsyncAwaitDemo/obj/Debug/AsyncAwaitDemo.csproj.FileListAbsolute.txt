@@ -1,0 +1,10 @@
+F:\DanskeC#\AsyncAwaitDemo\bin\Debug\AsyncAwaitDemo.exe.config
+F:\DanskeC#\AsyncAwaitDemo\bin\Debug\AsyncAwaitDemo.exe
+F:\DanskeC#\AsyncAwaitDemo\bin\Debug\AsyncAwaitDemo.pdb
+F:\DanskeC#\AsyncAwaitDemo\obj\Debug\AsyncAwaitDemo.csprojAssemblyReference.cache
+F:\DanskeC#\AsyncAwaitDemo\obj\Debug\AsyncAwaitDemo.Form1.resources
+F:\DanskeC#\AsyncAwaitDemo\obj\Debug\AsyncAwaitDemo.Properties.Resources.resources
+F:\DanskeC#\AsyncAwaitDemo\obj\Debug\AsyncAwaitDemo.csproj.GenerateResource.cache
+F:\DanskeC#\AsyncAwaitDemo\obj\Debug\AsyncAwaitDemo.csproj.CoreCompileInputs.cache
+F:\DanskeC#\AsyncAwaitDemo\obj\Debug\AsyncAwaitDemo.exe
+F:\DanskeC#\AsyncAwaitDemo\obj\Debug\AsyncAwaitDemo.pdb
